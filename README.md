@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+# todolist
+1. How to add elements to the list
+2. How to edit elements in the list
+3. How to delete elements in the list
+4. How to animate the creating and deletion of items in the list
+5. Upload a React App in Github for free.
+6. React Components, React Forms, event handlers, etc.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,13 +75,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# todolist
-1. How to add elements to the list
-2. How to edit elements in the list
-3. How to delete elements in the list
-4. How to animate the creating and deletion of items in the list
-5. Upload a React App in Github for free.
-6. React Components, React Forms, event handlers, etc.
 
->>>>>>> 1892512c698b2422cab5398b77488a4530890702
+
+=======
+
+
+
